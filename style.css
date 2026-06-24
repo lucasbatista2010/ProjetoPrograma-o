@@ -28,7 +28,7 @@ main {
   flex: 1; 
 } 
 .cabecalho-link {
-    color: #df0a0a;
+    color: #d9d1e5;
     text-decoration: none;
 }
 h1 { 
@@ -36,9 +36,9 @@ h1 {
   font-size: 24px; 
 } 
 footer { 
-  background-color: #5b5755; 
+  background-color: #b66cfc; 
   padding: 10px 20px; 
-  color: #ffffff; 
+  color: #4f3758; 
 } 
 
 .cartao-interno {
