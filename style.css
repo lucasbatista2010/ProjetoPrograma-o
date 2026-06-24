@@ -22,7 +22,7 @@ body {
   display: flex; 
   flex-direction: column; 
   min-height: 100vh; 
-  background-color: #3d3937; 
+  background-color: #a37ed7; 
 } 
 main { 
   flex: 1; 
